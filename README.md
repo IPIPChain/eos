@@ -1,50 +1,25 @@
-# EOSIO - The Most Powerful Infrastructure for Decentralized Applications
+# 欢迎来到知识产权产业公链IPIPChain
+## 知识产权产权公链
+　　知识产权产业公链是由孚链科技打造的国内第一条具有公信节点的产业公链，其致力于聚焦行业特性，以知识产权为切入点，解决包括地理标志、专利、商标等在内的知识产权业务痛点，助力构建知识产权产业健康生态的一条公链。该产业公链是由国家知识产权运营平台监制，清华大学互联网产业研究院指导的。目前已于2018年7月28日正式启动了测试网络。现确认加入的节点有：国家知识产权运营平台，清华大学，中科院及地理标志产品相关企业等等。
+1.	知识产权产业公链应用生态包含：专利运营服务、科技成果转化、DApp商店、版权通证化、生态技术工具服务、生态金融服务等。
+2.	知识产权产业公链具备的功能包含以下三个方面：
+	提供区块链基础工具集，钱包、浏览器、接入SDK、测试沙盒环境
+	溯源接入平台、溯源解决方案、基于区块链的电商平台
+	发行行业内的价值TOKEN，在平台企业间流通，成为企业营销、获客、增值的润滑剂
+3.	知识产权产业公链价值包括：
+	企业：防伪、溯源，区块链整合营销，TOKEN增值
+	节点：参与生态治理和维护，TOKEN增值
+	用户：买到上链的、可溯源、可溯真的好产品，购物即挖矿
 
-[![Build status](https://badge.buildkite.com/370fe5c79410f7d695e4e34c500b4e86e3ac021c6b1f739e20.svg?branch=master)](https://buildkite.com/EOSIO/eosio)
+现阶段，知识产权产业公链开发者社区正积极治理维护产业公链生态，为知识产区行业提供优质的服务作出努力。未来，我们欢迎更多高校、机构和企业能够加入我们，成为知识产权产业公链的节点。上链节点将通过产业公链上的生态建设，提升品牌影响力，并最终促进整个行业积极健康的发展。
 
-Welcome to the EOSIO source code repository! This software enables businesses to rapidly build and deploy high-performance and high-security blockchain-based applications.
 
-Some of the groundbreaking features of EOSIO include:
 
-1. Free Rate Limited Transactions 
-1. Low Latency Block confirmation (0.5 seconds)
-1. Low-overhead Byzantine Fault Tolerant Finality
-1. Designed for optional high-overhead, low-latency BFT finality 
-1. Smart contract platform powered by Web Assembly
-1. Designed for Sparse Header Light Client Validation
-1. Scheduled Recurring Transactions 
-1. Time Delay Security
-1. Hierarchical Role Based Permissions
-1. Support for Biometric Hardware Secured Keys (e.g. Apple Secure Enclave)
-1. Designed for Parallel Execution of Context Free Validation Logic
-1. Designed for Inter Blockchain Communication 
-
-EOSIO is released under the open source MIT license and is offered “AS IS” without warranty of any kind, express or implied. Any security provided by the EOSIO software depends in part on how it is used, configured, and deployed. EOSIO is built upon many third-party libraries such as Binaryen (Apache License) and WAVM  (BSD 3-clause) which are also provided “AS IS” without warranty of any kind. Without limiting the generality of the foregoing, Block.one makes no representation or guarantee that EOSIO or any third-party libraries will perform as intended or will be free of errors, bugs or faulty code. Both may fail in large or small ways that could completely or partially limit functionality or compromise computer systems. If you use or implement EOSIO, you do so at your own risk. In no event will Block.one be liable to any party for any damages whatsoever, even if it had been advised of the possibility of damage.  
-
-Block.one is neither launching nor operating any initial public blockchains based upon the EOSIO software. This release refers only to version 1.0 of our open source software. We caution those who wish to use blockchains built on EOSIO to carefully vet the companies and organizations launching blockchains based on EOSIO before disclosing any private keys to their derivative software. 
-
-There is no public testnet running currently.
-
-## Supported Operating Systems
-EOSIO currently supports the following operating systems:  
-1. Amazon 2017.09 and higher
-2. Centos 7
-3. Fedora 25 and higher (Fedora 27 recommended)
-4. Mint 18
-5. Ubuntu 16.04 (Ubuntu 16.10 recommended)
-6. Ubuntu 18.04
-7. MacOS Darwin 10.12 and higher (MacOS 10.13.x recommended)
-
-## Resources
-1. [Website](https://eos.io)
-1. [Blog](https://medium.com/eosio)
-1. [Developer Portal](https://developers.eos.io)
-1. [StackExchange for Q&A](https://eosio.stackexchange.com/)
-1. [Community Telegram Group](https://t.me/EOSProject)
-1. [Developer Telegram Group](https://t.me/joinchat/EaEnSUPktgfoI-XPfMYtcQ)
-1. [White Paper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md)
-1. [Roadmap](https://github.com/EOSIO/Documentation/blob/master/Roadmap.md)
+## 资源
+1. [节点申请流程](https://github.com/IPIPChain/ipipchain/wiki/%E8%8A%82%E7%82%B9%E7%94%B3%E8%AF%B7%E6%B5%81%E7%A8%8B)
+1. [IPIPChain接入指南](https://github.com/IPIPChain/IPIPChain-Testnet)
+1. [社区治理](https://github.com/IPIPChain/ipipchain/wiki/%E7%A4%BE%E5%8C%BA%E6%B2%BB%E7%90%86)
 
 <a name="gettingstarted"></a>
-## Getting Started
-Instructions detailing the process of getting the software, building it, running a simple test network that produces blocks, account creation and uploading a sample contract to the blockchain can be found in [Getting Started](https://developers.eos.io/eosio-nodeos/docs/overview-1) on the [EOSIO Developer Portal](https://developers.eos.io).
+## 怎么开始
+
