@@ -21,5 +21,6 @@
 1. [社区治理](https://github.com/IPIPChain/ipipchain/wiki/%E7%A4%BE%E5%8C%BA%E6%B2%BB%E7%90%86)
 
 <a name="gettingstarted"></a>
-## 怎么开始
+## 入门
+
 
