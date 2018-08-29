@@ -20,6 +20,7 @@
 
 ## 资源
 1. [节点申请流程](https://github.com/IPIPChain/ipipchain/wiki/%E8%8A%82%E7%82%B9%E7%94%B3%E8%AF%B7%E6%B5%81%E7%A8%8B)
+1. [节点申请模板](https://github.com/IPIPChain/ipipchain/wiki/%E8%8A%82%E7%82%B9%E7%94%B3%E8%AF%B7%E6%A8%A1%E6%9D%BF)
 1. [IPIPChain接入指南](https://github.com/IPIPChain/IPIPChain-Testnet)
 1. [公链治理体系](https://github.com/IPIPChain/ipipchain/wiki/%E5%85%AC%E9%93%BE%E6%B2%BB%E7%90%86%E4%BD%93%E7%B3%BB)
 <a name="gettingstarted"></a>
